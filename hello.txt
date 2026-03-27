@@ -1,1 +1,1 @@
-Oi, esse é meu primeiro arquivo. ( branch main )
+Oi, esse é meu primeiro arquivo. ( branch main ). Arquivo modificado diretamente no github para testes do comando git pull.
